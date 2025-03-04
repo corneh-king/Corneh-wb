@@ -17,19 +17,19 @@
     "MENU_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/gld2vo.jpg"
+      "value": "https://files.catbox.moe/f2n59b.jpg"
     }, 
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/ktd1l4.jpg"
+      "value": "https://files.catbox.moe/f2n59b.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡"
+      "value": "> ✦CORNEH WB✦ ɪs  ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ *CORNEH WB*ғʀᴏᴍ CORNEH ᴛᴇᴄʜ ɪɴᴄ⚡⚡"
     },
     
     "PREFIX": {
@@ -48,7 +48,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "✦MALVIN-XD✦"
+      "value": "✦CORNEH-WB✦"
     },
     
     
@@ -82,27 +82,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
+      "value": "*🎉👀Status Seen by CORNEH WB🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
+      "value": "CORNEH TECH"
       
      }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "254716226465"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
+      "value": "✦CORNEH WB✦"
 
       }, 
 
@@ -122,7 +122,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ✦*"
+      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦CORNEH ᴛᴇᴄʜ✦ ɪɴᴄ✦*"
     },
 
       "DELETE_LINKS": {
